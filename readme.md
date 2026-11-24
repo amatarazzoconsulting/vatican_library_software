@@ -1,4 +1,5 @@
 # **The Living Word**
+## By Anthony Matarazzo (c) 2026
 
 ## **A Comprehensive Design Proposal for the Vatican Bible Portal at Vatican.va**
 
