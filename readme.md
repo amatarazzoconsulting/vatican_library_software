@@ -5,6 +5,8 @@
 
 ### **A modern publishing, reading, prayer, and Scripture-distribution environment for the universal Church**
 
+example app created: https://scripture-lightkeeper.lovable.app/
+
 **Purpose of this document**
 
 This proposal presents a comprehensive vision for developing the Vatican Bible portal into an exceptional international reading and publishing destination. Its central purpose is to make the Word of God easier to read, hear, study, share, and contemplate on every kind of device, while preserving the dignity, accuracy, authority, and enduring nature of Scripture.
