@@ -5,7 +5,7 @@
 
 ### **A modern publishing, reading, prayer, and Scripture-distribution environment for the universal Church**
 
-example app created: https://scripture-lightkeeper.lovable.app/
+Example app created: https://scripture-lightkeeper.lovable.app/
 
 **Purpose of this document**
 
